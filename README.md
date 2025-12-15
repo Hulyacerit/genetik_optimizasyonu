@@ -1,11 +1,11 @@
-# 🎨 Endüstriyel Boya Karışımı Optimizasyonu
+#  Endüstriyel Boya Karışımı Optimizasyonu
 
 **Ders:** Yapay Zeka Sistemleri
 **Konu:** Genetik Algoritma (GA) ile Kısıtlı Optimizasyon Problemi Çözümü
 
 ---
 
-## 👤 Öğrenci Bilgileri
+##  Öğrenci Bilgileri
 
 | Ad Soyad | Numara | Bölüm |
 |---|---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Proje Tanımı ve Senaryo
+##  Proje Tanımı ve Senaryo
 
 Bu proje, endüstriyel bir boya fabrikasında ideal renk tonunu yakalamak için **Pigment A** ve **Pigment B** oranlarının optimize edilmesini amaçlar. 
 
@@ -21,7 +21,7 @@ Geleneksel deneme-yanılma yöntemleri yerine, doğadaki evrim sürecini taklit 
 
 ---
 
-## 🧮 Matematiksel Model
+##  Matematiksel Model
 
 Proje aşağıdaki matematiksel problemi çözmektedir:
 
@@ -45,7 +45,7 @@ $$y = 5x_1 + 2x_2 - (x_1 \cdot x_2)$$
 
 ---
 
-## 🧬 Algoritma Mimarisi
+##  Algoritma Mimarisi
 
 Bu projede **Modüler Programlama** yapısı kullanılmıştır. Algoritma şu adımları izler:
 
@@ -58,7 +58,7 @@ Bu projede **Modüler Programlama** yapısı kullanılmıştır. Algoritma şu a
 
 ---
 
-## 📁 Proje Dosya Yapısı
+## Proje Dosya Yapısı
 
 Proje dosyaları görevlerine göre ayrılmıştır:
 
@@ -71,7 +71,7 @@ Proje dosyaları görevlerine göre ayrılmıştır:
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -87,7 +87,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 ---
 
-## 📊 Sonuçlar
+## Sonuçlar
 
 Program çalıştığında konsolda her nesil için **En İyi Kalite Puanı** ve **Karışım Oranlarını** listeler. Ayrıca işlemin sonunda iki adet grafik üretir:
 * **Grafik 1:** Kalite puanının nesiller boyunca artışı (Yakınsama).
